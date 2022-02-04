@@ -1,1 +1,2 @@
-# lab3gitpractice
+Project Team Members:
+Zach Trainor
