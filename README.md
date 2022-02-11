@@ -3,6 +3,7 @@ Project Team Members:
 Helen Dupree
 Zach Trainor
 Ben Burkhalter
+Delan Huang
 
 Reviewed and edited by Zach.
 Corrected, changes made by Helen.
